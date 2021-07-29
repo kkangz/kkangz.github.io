@@ -1,5 +1,5 @@
 ---
-title: ‘[AWS] Amplify의 SSL인증서를 이용한 DNSZi CNAME 연결방법(https 적용)’
+title: '[AWS] Amplify의 SSL인증서를 이용한 DNSZi CNAME 연결방법(https 적용)'
 author: kkangz
 date: 2021-07-29 20:30:00 +0900
 categories: [AWS]
@@ -7,9 +7,12 @@ tags: [AWS, Amplify, AWS Certificate Manager, SSL, HTTPS]
 ---
 ### 개요
 AWS Amplify 를 사용하여 간단한 Web Application 을 만든 이후,   
+
 AWS Certificate Manager 를 통해 SSL, HTTPS 설정하는 방법 입니다.   
 
-제가 가지고 있는 domain 은 네임서버(dns)를 [DNSZi.com](https://dnszi.com) 에서 관리하고 있기 때문에, 이를 바탕으로 설명하겠습니다.   
+제가 가지고 있는 domain 은 네임서버(dns)를 [DNSZi.com](https://dnszi.com) 에서 관리하고 있기 때문에,   
+이를 바탕으로 설명하겠습니다.   
+
 또한 저는 제 Amplify 웹을 제가 소유한 도메인의 서브도메인 react.mydomain.com 으로 구성 하려고 합니다.   
 
 먼저 Amplify 를 이용해 간단한 웹 앱을 만들면,   
