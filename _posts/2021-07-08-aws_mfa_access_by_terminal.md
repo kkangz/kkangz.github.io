@@ -2,7 +2,7 @@
 title: '[AWS] EC2/기타 Terminal에서 AccessDeniedException 에러 해결하기(MFA)'
 author: kkangz
 date: 2021-07-08 17:30:00 +0900
-categories: [AWS, Trouble Shooting]
+categories: [AWS]
 tags: [알고리즘, DFS, DFS알고리즘, 코딩테스트]
 ---
 
