@@ -48,24 +48,16 @@ social:
     # - https://www.linkedin.com/in/username
 
     
-# Analytics
-analytics:
-  provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-5XPBZNEWYK"
-    anonymize_ip         : # true, false (default)
-
-    
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
-# google_analytics:
-  # id: 'UA-201537387-1'              # fill in your Google Analytics ID
+google_analytics:
+  id: 'UA-201537387-1'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
-  # pv:
-    # proxy_endpoint: ''   # fill in the Google Analytics superProxy endpoint of Google App Engine
-    # cache_path:       # the local PV cache data, friendly to visitors from GFW region
+  pv:
+    proxy_endpoint: 'https://seokgyu-blog.du.r.appspot.com/query?id=ag52fnNlb2tneXUtYmxvZ3IVCxIIQXBpUXVlcnkYgICA6NeHgQoM'   # fill in the Google Analytics superProxy endpoint of Google App Engine
+    cache_path:       # the local PV cache data, friendly to visitors from GFW region
+
 
 # Prefer color scheme setting.
 #
