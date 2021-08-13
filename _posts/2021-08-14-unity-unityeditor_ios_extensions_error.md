@@ -1,7 +1,7 @@
 ---
 title: '[Unity]] Unable to resolve reference UnityEditor.iOS.Extensions.Xcode'
 author: kkangz
-date: 2021-08-14 19:30:00 +0900
+date: 2021-08-13 20:30:00 +0900
 categories: [Dev, Unity]
 tags: [Unity, UnityEditor.iOS.Extensions.Xcode]
 ---
