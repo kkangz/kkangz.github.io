@@ -7,9 +7,6 @@ tags: [Unity, UnityEditor.iOS.Extensions.Xcode]
 ---
 
 Unity 에서 Firebase Crashlytics를 추가하는데 이런 에러가 자꾸 난다.   
-이것때문인지 Plugin 에서 Firebase 설정 시 자동으로 수행하는 작업들,   
-Assets/Plugin/Android/ 에 자동 생성하는 xml 파일 등이 안만들어 진다.   
-
 Firebase Plugin에서 iOS 관련 DLL이 있어서 그런 것으로 보인다.
 
 ```
