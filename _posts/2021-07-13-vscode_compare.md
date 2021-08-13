@@ -2,7 +2,7 @@
 title: '[VSCode] VSCode에서 파일/소스 비교하기(Source Compare)'
 author: kkangz
 date: 2021-07-13 17:30:00 +0900
-categories: [Development Tips]
+categories: [Dev, Tips]
 tags: [VSCode, Compare, 소스비교, 파일비교]
 ---
 

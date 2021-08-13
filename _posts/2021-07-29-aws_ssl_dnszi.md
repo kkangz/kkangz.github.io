@@ -2,7 +2,7 @@
 title: '[AWS] Amplify의 SSL인증서를 이용한 DNSZi CNAME 연결방법(https 적용)'
 author: kkangz
 date: 2021-07-29 20:30:00 +0900
-categories: [AWS]
+categories: [Dev, AWS]
 tags: [AWS, Amplify, AWS Certificate Manager, SSL, HTTPS]
 ---
 ### 개요

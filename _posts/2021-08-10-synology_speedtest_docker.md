@@ -2,7 +2,7 @@
 title: 'Synology NAS에 인터넷 속도 측정하여 탤레그램으로 알리기'
 author: kkangz
 date: 2021-08-10 20:30:00 +0900
-categories: [NAS]
+categories: [Dev, NAS]
 tags: [Synolgoy, Xpenology, NAS, SppedTest, Docker, Telegram]
 ---
 # 개요

@@ -2,7 +2,7 @@
 title: 'Ubuntu Samba 설정하여 MacOS에서 공유폴더 마운트 하기'
 author: kkangz
 date: 2021-08-09 20:30:00 +0900
-categories: [Development Tips]
+categories: [Dev, Tips]
 tags: [Samba, Ubuntu, MacOS]
 ---
 # 개요

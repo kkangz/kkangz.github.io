@@ -2,7 +2,7 @@
 title: '[Docker] Docker로 OpenGrok 설치해서 소스분석을 쉽게하기'
 author: kkangz
 date: 2021-07-12 17:30:00 +0900
-categories: [Development Tips]
+categories: [Dev, Tips]
 tags: [OpenGrok, 소스분석툴]
 ---
 

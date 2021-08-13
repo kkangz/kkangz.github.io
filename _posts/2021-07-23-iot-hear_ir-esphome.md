@@ -2,7 +2,7 @@
 title: '[HomeAssistant] 하트IR ESPHOME 펌웨어로 변경, HA연동하기(1)'
 author: kkangz
 date: 2021-07-23 22:30:00 +0900
-categories: [Home IoT]
+categories: [Dev, Home IoT]
 tags: [HomeIoT, 하트IR, HomeAssistant, ESPHome, tuya-convert]
 ---
 
